@@ -1,0 +1,15 @@
+/Users/thiagoeduardo/PROJETOS/Faculdade/CS/Lista02matriz/ex04/bin/Debug/net10.0/ex04
+/Users/thiagoeduardo/PROJETOS/Faculdade/CS/Lista02matriz/ex04/bin/Debug/net10.0/ex04.deps.json
+/Users/thiagoeduardo/PROJETOS/Faculdade/CS/Lista02matriz/ex04/bin/Debug/net10.0/ex04.runtimeconfig.json
+/Users/thiagoeduardo/PROJETOS/Faculdade/CS/Lista02matriz/ex04/bin/Debug/net10.0/ex04.dll
+/Users/thiagoeduardo/PROJETOS/Faculdade/CS/Lista02matriz/ex04/bin/Debug/net10.0/ex04.pdb
+/Users/thiagoeduardo/PROJETOS/Faculdade/CS/Lista02matriz/ex04/obj/Debug/net10.0/ex04.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thiagoeduardo/PROJETOS/Faculdade/CS/Lista02matriz/ex04/obj/Debug/net10.0/ex04.AssemblyInfoInputs.cache
+/Users/thiagoeduardo/PROJETOS/Faculdade/CS/Lista02matriz/ex04/obj/Debug/net10.0/ex04.AssemblyInfo.cs
+/Users/thiagoeduardo/PROJETOS/Faculdade/CS/Lista02matriz/ex04/obj/Debug/net10.0/ex04.csproj.CoreCompileInputs.cache
+/Users/thiagoeduardo/PROJETOS/Faculdade/CS/Lista02matriz/ex04/obj/Debug/net10.0/ex04.sourcelink.json
+/Users/thiagoeduardo/PROJETOS/Faculdade/CS/Lista02matriz/ex04/obj/Debug/net10.0/ex04.dll
+/Users/thiagoeduardo/PROJETOS/Faculdade/CS/Lista02matriz/ex04/obj/Debug/net10.0/refint/ex04.dll
+/Users/thiagoeduardo/PROJETOS/Faculdade/CS/Lista02matriz/ex04/obj/Debug/net10.0/ex04.pdb
+/Users/thiagoeduardo/PROJETOS/Faculdade/CS/Lista02matriz/ex04/obj/Debug/net10.0/ex04.genruntimeconfig.cache
+/Users/thiagoeduardo/PROJETOS/Faculdade/CS/Lista02matriz/ex04/obj/Debug/net10.0/ref/ex04.dll
